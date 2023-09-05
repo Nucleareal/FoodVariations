@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_hamburger",
+  "nameTerm": "stella_foods_hamburger_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "bread, cooked_meat, tomato, stella_foods_lettuce, stella_foods_ketchup, bread",
+      "ResultCard": "stella_foods_hamburger",
+      "Time": 5,
+      "StatusTerm": "stella_foods_idea_hamburger_status"
+    }
+  ]
+}

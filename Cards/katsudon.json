@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_katsudon",
+  "nameTerm": "stella_foods_katsudon_name",
+  "descriptionTerm": "stella_foods_katsudon_description",
+  "icon": "katsudon.png",
+  "value": 10,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 16
+}

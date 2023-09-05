@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_raw_mustard",
+  "nameTerm": "stella_foods_raw_mustard_name",
+  "descriptionTerm": "stella_foods_raw_mustard_description",
+  "icon": "raw_mustard.png",
+  "value": 2,
+  "type": "Food",
+  "script": "StellaFoodsNS.MidwayFood",
+  "_FoodValue": 0
+}

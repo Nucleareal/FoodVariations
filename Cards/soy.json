@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_soy",
+  "nameTerm": "stella_foods_soy_name",
+  "descriptionTerm": "stella_foods_soy_description",
+  "icon": "soy.png",
+  "value": 1,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 0
+}

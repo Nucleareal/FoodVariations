@@ -1,0 +1,45 @@
+{
+  "id": "stella_foods_blueprint_farm_stellafoods_growth",
+  "nameTerm": "stella_foods_error",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+	{
+      "RequiredCards": "farm, stella_foods_rice",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_rice",
+      "Time": 90,
+      "StatusTerm": "stella_foods_idea_farm_growth_status"
+    },
+	{
+      "RequiredCards": "farm, stella_foods_barley",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_barley, stella_foods_barley, stella_foods_barley",
+      "Time": 90,
+      "StatusTerm": "stella_foods_idea_farm_growth_status"
+    },
+	{
+	  "RequiredCards": "farm, stella_foods_lettuce",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_lettuce",
+      "Time": 90,
+      "StatusTerm": "stella_foods_idea_farm_growth_status"
+	},
+	{
+	  "RequiredCards": "farm, stella_foods_raw_mustard",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_raw_mustard",
+      "Time": 90,
+      "StatusTerm": "stella_foods_idea_farm_growth_status"
+	},
+	{
+	  "RequiredCards": "farm, stella_foods_soy",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_soy",
+      "Time": 90,
+      "StatusTerm": "stella_foods_idea_farm_growth_status"
+	}
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "stella_foods_blueprint_tofu",
+  "nameTerm": "stella_foods_tofu_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "stella_foods_soy, stella_foods_salt, water, fabric",
+	  "CardsToRemove": "stella_foods_soy, stella_foods_salt, water",
+      "ResultCard": "stella_foods_tofu",
+      "Time": 60,
+      "StatusTerm": "stella_foods_idea_tofu_status"
+    }
+  ]
+}

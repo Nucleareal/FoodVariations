@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_soy_sauce",
+  "nameTerm": "stella_foods_soy_sauce_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "barrel, stella_foods_soy, wheat, stella_foods_salt",
+      "ResultCard": "stella_foods_soy_sauce",
+      "Time": 60,
+      "StatusTerm": "stella_foods_idea_soy_sauce_status"
+    }
+  ]
+}

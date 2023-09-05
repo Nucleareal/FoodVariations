@@ -1,0 +1,18 @@
+{
+  "id": "stella_foods_pig",
+  "nameTerm": "stella_foods_pig_name",
+  "descriptionTerm": "stella_foods_pig_description",
+  "type": "Mobs",
+  "icon": "pig.png",
+  "value": -1,
+  "script": "Animal",
+  "_BaseCombatStats": {
+    "MaxHealth": 10,
+    "AttackDamage": 2,
+    "AttackSpeed": 1,
+    "Defence": 1,
+    "HitChance": 0.5
+  },
+  "_CreateCard": "poop",
+  "_IsBreedable": true
+}

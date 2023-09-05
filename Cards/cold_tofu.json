@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_cold_tofu",
+  "nameTerm": "stella_foods_cold_tofu_name",
+  "descriptionTerm": "stella_foods_cold_tofu_description",
+  "icon": "cold_tofu.png",
+  "value": 1,
+  "type": "Food",
+  "script": "StellaFoodsNS.MidwayFood",
+  "_FoodValue": 4
+}

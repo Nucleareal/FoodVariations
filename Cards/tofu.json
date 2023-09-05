@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_tofu",
+  "nameTerm": "stella_foods_tofu_name",
+  "descriptionTerm": "stella_foods_tofu_description",
+  "icon": "tofu.png",
+  "value": 1,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 1
+}

@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_wasabi_farm",
+  "nameTerm": "stella_foods_wasabi_farm_name",
+  "descriptionTerm": "stella_foods_wasabi_farm_description",
+  "icon": "wasabi_farm.png",
+  "value": 1,
+  "type": "Structures",
+  "_IsBuilding": true,
+  "script": "Greenhouse"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_cold_tofu",
+  "nameTerm": "stella_foods_cold_tofu_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "stella_foods_tofu, stella_foods_soy_sauce",
+      "ResultCard": "stella_foods_cold_tofu",
+      "Time": 5,
+      "StatusTerm": "stella_foods_idea_cold_tofu_status"
+    }
+  ]
+}

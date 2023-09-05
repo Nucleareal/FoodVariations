@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_ketchup",
+  "nameTerm": "stella_foods_ketchup_name",
+  "descriptionTerm": "stella_foods_ketchup_description",
+  "icon": "ketchup.png",
+  "value": 2,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 1
+}

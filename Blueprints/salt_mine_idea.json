@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_salt_mine",
+  "nameTerm": "stella_foods_salt_mine_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "stella_foods_salt, stella_foods_salt, wood, any_villager",
+      "ResultCard": "stella_foods_salt_mine",
+      "Time": 30,
+      "StatusTerm": "stella_foods_idea_salt_mine_status"
+    }
+  ]
+}

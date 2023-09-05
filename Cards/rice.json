@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_rice",
+  "nameTerm": "stella_foods_rice_name",
+  "descriptionTerm": "stella_foods_rice_description",
+  "icon": "rice.png",
+  "value": 1,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 1
+}

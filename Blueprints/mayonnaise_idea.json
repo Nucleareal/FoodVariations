@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_mayonnaise",
+  "nameTerm": "stella_foods_mayonnaise_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "egg, olive_oil, water",
+      "ResultCard": "stella_foods_mayonnaise",
+      "Time": 180,
+      "StatusTerm": "stella_foods_idea_mayonnaise_status"
+    }
+  ]
+}

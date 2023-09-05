@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_katsudon",
+  "nameTerm": "stella_foods_katsudon_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "campfire, stella_foods_rice, stella_foods_pork_cutlet, egg",
+      "ResultCard": "stella_foods_katsudon",
+      "Time": 20,
+      "StatusTerm": "stella_foods_idea_katsudon_status"
+    }
+  ]
+}

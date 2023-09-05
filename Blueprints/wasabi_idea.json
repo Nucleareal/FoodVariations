@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_wasabi",
+  "nameTerm": "stella_foods_wasabi_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "stella_foods_raw_wasabi, any_villager",
+      "ResultCard": "stella_foods_wasabi",
+      "Time": 5,
+      "StatusTerm": "stella_foods_idea_wasabi_status"
+    }
+  ]
+}

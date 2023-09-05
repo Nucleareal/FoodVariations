@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_pork_cutlet",
+  "nameTerm": "stella_foods_pork_cutlet_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "campfire, olive_oil, stella_foods_pork, bread, egg",
+      "ResultCard": "stella_foods_pork_cutlet",
+      "Time": 5,
+      "StatusTerm": "stella_foods_idea_pork_cutlet_status"
+    }
+  ]
+}

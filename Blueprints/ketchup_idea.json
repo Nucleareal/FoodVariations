@@ -1,0 +1,13 @@
+{
+  "id": "stella_foods_blueprint_ketchup",
+  "nameTerm": "stella_foods_ketchup_name",
+  "group": "Cooking",
+  "subprints": [
+    {
+      "RequiredCards": "campfire, tomato, tomato, water",
+      "ResultCard": "stella_foods_ketchup",
+      "Time": 5,
+      "StatusTerm": "stella_foods_idea_ketchup_status"
+    }
+  ]
+}

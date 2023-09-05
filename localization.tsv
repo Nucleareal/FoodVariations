@@ -1,0 +1,81 @@
+Term	Notes	English	Japanese
+stella_foods_rice_name		Rice	米
+stella_foods_rice_description		A delicious rice.	食料や日本酒の原料になる。
+stella_foods_barley_name		Barley	大麦
+stella_foods_barley_description		Barley	焼酎の原料になる。
+stella_foods_lettuce_name		Lettuce	レタス
+stella_foods_lettuce_description		A delicious lettuce.	作画が良いかどうかの指標にはならない。
+stella_foods_pork_name		Pork	豚肉
+stella_foods_pork_description		A delicious pork.	牛肉に飽きたら食べるといい。
+stella_foods_salt_name		Salt	塩
+stella_foods_salt_description		Salt.	調味料なので単体で食べられない。山盛りにしても体に悪いだけ。
+stella_foods_wasabi_name		Wasabi	わさび
+stella_foods_wasabi_description		wasabi.	薬味としてどうぞ。
+stella_foods_mustard_name		Mustard	からし
+stella_foods_mustard_description		Japanese Mustard	薬味としてどうぞ。
+stella_foods_raw_wasabi_name		Raw wasabi	生わさび
+stella_foods_raw_wasabi_description		A delicious wasabi.	そのまま食べてもおいしい。
+stella_foods_raw_mustard_name		Raw mustard	生からし
+stella_foods_raw_mustard_description		A delicious mustard	加工してどうぞ。
+stella_foods_soy_name		Soy	大豆
+stella_foods_soy_description		soy.	和食の5割は大豆からできているらしい。
+stella_foods_rock_salt_name		Rock salt	岩塩
+stella_foods_rock_salt_description		rock salt.	鉱山からとれたてほやほや。分解すると塩になる。
+stella_foods_ketchup_name		Ketchup	ケチャップ
+stella_foods_ketchup_description		A delicious ketchup	電気鼠を飼いならすのにどうぞ。
+stella_foods_mayonnaise_name		Mayonnaise	マヨネーズ
+stella_foods_mayonnaise_description		A delicious mayonnaise	そのまま吸ってもいい。
+stella_foods_soy_sauce_name		Soy Sauce	醤油
+stella_foods_soy_sauce_description		A delicious soy sauce	じっくり熟成させて完成させたもの。
+stella_foods_raw_egg_on_rice_name		Raw egg on rice	卵かけご飯
+stella_foods_raw_egg_on_rice_description		Delicious.	日本独自の衛生管理ができているから食べられる。
+stella_foods_tofu_name		Tofu	豆腐
+stella_foods_tofu_description		A tofu	どちらかというと絹豆腐。
+stella_foods_salad_name		Salad	サラダ
+stella_foods_salad_description		A delicious salad.	たまには野菜を食べないと栄養が不足するが、Stacklandsではそんなことはない。
+stella_foods_hamburger_name		Hamburger	ハンバーガー
+stella_foods_hamburger_description		A delicious hamburger	がっつり食べたいときにどうぞ。
+stella_foods_pork_cutlet_name		pork cutlet	とんかつ
+stella_foods_pork_cutlet_description		A delicious pork cutlet	からしを食べる理由付けともされている。
+stella_foods_string_cheese_name		String Cheese	裂けるチーズ
+stella_foods_string_cheese_description		A delicious string cheese	普通のチーズよりおいしい気がする。
+stella_foods_roasted_meat_with_pepper_name		Roasted meat with pepper	すたチキレッド
+stella_foods_roasted_meat_with_pepper_description		A roasted meat with chili pepper.	スタックイレブンで販売予定の商品。
+stella_foods_cold_tofu_name		Cold tofu	冷奴
+stella_foods_cold_tofu_description		A delicious string cheese	醤油をかけただけだが、十分おいしい。
+stella_foods_katsudon_name		Pork cutlet on rice	カツ丼
+stella_foods_katsudon_description		A delicious string cheese	冷えたとんかつを卵でとじて食べられるようにしたものらしい。
+stella_foods_chef_name		Chef	シェフ
+stella_foods_chef_description		A chef	シェフ。
+stella_foods_pig_name		Pig	豚
+stella_foods_pig_description		A pig	兎以上のうんこ製造機。屠殺しても豚肉はとれない。
+stella_foods_wasabi_farm_name		Wasabi farm	わさび農場
+stella_foods_wasabi_farm_description		A farm to grow raw wasabi.	わさびを育てるための農場。
+stella_foods_salt_mine_name		Salt mine	岩塩坑
+stella_foods_salt_mine_description		A mine of rock salt.	岩塩が取れる。今のところ素の村人ではないと採掘できない。
+stella_foods_idea_wasabi_farm_status		Building..	建造中..
+stella_foods_idea_wasabi_farm_growth_status		Growth..	育成中..
+stella_foods_idea_salt_mine_status		Building..	建造中..
+stella_foods_idea_salt_mine_mining_status		Growth..	採取中..
+stella_foods_idea_hamburger_status		Cooking..	料理中..
+stella_foods_idea_ketchup_status		Cooking..	料理中..
+stella_foods_idea_mayonnaise_status		Cooking..	料理中..
+stella_foods_idea_salt_status		cooking..	料理中..
+stella_foods_idea_pork_cutlet_status		cooking..	料理中..
+stella_foods_idea_soy_sauce_status		cooking..	料理中..
+stella_foods_idea_raw_egg_on_rice_status		cooking..	料理中..
+stella_foods_idea_tofu_status		cooking..	料理中..
+stella_foods_idea_salad_status		cooking..	料理中..
+stella_foods_idea_string_cheese_status		cooking..	料理中..
+stella_foods_idea_roasted_meat_with_pepper_status		cooking..	料理中..
+stella_foods_idea_cold_tofu_status		cooking..	料理中..
+stella_foods_idea_katsudon_status		cooking..	料理中..
+stella_foods_idea_rock_salt_smashing_status		smashing..	粉砕中..
+stella_foods_booster_name		Foods Variants	食物革命
+stella_foods_wasabi_farm_growth_name		Error	エラー
+stella_foods_salt_mine_mining_name		Error	エラー
+stella_foods_idea_soil_growth_status		Growth..	育成中..
+stella_foods_idea_garden_growth_status		Growth..	育成中..
+stella_foods_idea_farm_growth_status		Growth..	育成中..
+stella_foods_idea_greenhouse_growth_status		Growth..	育成中..
+stella_foods_error		Error	エラー

@@ -1,0 +1,14 @@
+{
+  "id": "stella_foods_blueprint_wasabi_farm",
+  "nameTerm": "stella_foods_wasabi_farm_name",
+  "group": "Building",
+  "subprints": [
+    {
+      "RequiredCards": "water, soil, villager",
+      "ResultCard": "stella_foods_wasabi_farm",
+	  "CardsToRemove": "water, soil",
+      "Time": 30,
+      "StatusTerm": "stella_foods_idea_wasabi_farm_status"
+    }
+  ]
+}

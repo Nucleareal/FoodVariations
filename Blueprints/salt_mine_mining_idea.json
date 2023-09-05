@@ -1,0 +1,17 @@
+{
+  "id": "stella_foods_blueprint_salt_mine_mining",
+  "nameTerm": "stella_foods_salt_mine_mining_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+    {
+      "RequiredCards": "stella_foods_salt_mine, any_villager",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_rock_salt",
+      "Time": 30,
+      "StatusTerm": "stella_foods_idea_salt_mine_mining_status"
+    }
+  ]
+}

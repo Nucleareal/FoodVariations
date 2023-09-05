@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_mayonnaise",
+  "nameTerm": "stella_foods_mayonnaise_name",
+  "descriptionTerm": "stella_foods_mayonnaise_description",
+  "icon": "mayonnaise.png",
+  "value": 2,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 1
+}

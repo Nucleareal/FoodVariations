@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_barley",
+  "nameTerm": "stella_foods_barley_name",
+  "descriptionTerm": "stella_foods_barley_description",
+  "icon": "barley.png",
+  "value": 1,
+  "type": "Food",
+  "script": "Food",
+  "_FoodValue": 0
+}

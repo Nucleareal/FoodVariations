@@ -1,0 +1,16 @@
+{
+  "id": "stella_foods_blueprint_salt_from_rock",
+  "nameTerm": "stella_foods_salt_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+	{
+      "RequiredCards": "stella_foods_rock_salt, any_villager",
+	  "ExtraResultCards": "stella_foods_salt, stella_foods_salt, stella_foods_salt",
+      "Time": 5,
+      "StatusTerm": "stella_foods_idea_rock_salt_smashing_status"
+    }
+  ]
+}

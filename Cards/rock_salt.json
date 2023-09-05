@@ -1,0 +1,10 @@
+{
+  "id": "stella_foods_rock_salt",
+  "nameTerm": "stella_foods_rock_salt_name",
+  "descriptionTerm": "stella_foods_rock_salt_description",
+  "icon": "rock_salt.png",
+  "value": 1,
+  "type": "Food",
+  "script": "StellaFoodsNS.MidwayFood",
+  "_FoodValue": 0
+}

@@ -1,0 +1,17 @@
+{
+  "id": "stella_foods_blueprint_wasabi_farm_growth",
+  "nameTerm": "stella_foods_wasabi_farm_growth_name",
+  "group": "Building",
+  "hideFromCardopedia": true,
+  "hideFromIdeasTab": true,
+  "_CanSpoil": false,
+  "subprints": [
+    {
+      "RequiredCards": "stella_foods_wasabi_farm, stella_foods_raw_wasabi",
+	  "CardsToRemove": "",
+	  "ExtraResultCards": "stella_foods_raw_wasabi",
+      "Time": 60,
+      "StatusTerm": "stella_foods_idea_wasabi_farm_growth_status"
+    }
+  ]
+}
